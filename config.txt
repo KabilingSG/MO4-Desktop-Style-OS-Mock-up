@@ -1,0 +1,8 @@
+# CSOPESY Desktop OS config (all keys optional, '#' starts a comment)
+skip_boot=0        # 1 = jump straight to the desktop
+wallpaper=0        # 0 = Bliss, 1 = animated gradient, 2 = grid pattern
+clock_24h=0        # 1 = 24-hour clock
+brightness=1.0     # 0.2 to 1.0
+window_width=1280
+window_height=720
+fullscreen=0
